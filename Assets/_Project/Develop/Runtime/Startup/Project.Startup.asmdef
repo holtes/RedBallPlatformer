@@ -1,0 +1,20 @@
+{
+    "name": "Project.Startup",
+    "rootNamespace": "",
+    "references": [
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:0104ae351448541ee9a4ab55eb9d8b69",
+        "GUID:3d21d094af7db00438ee449f909adafb",
+        "GUID:5f7db95275061e841827f09140b2d323",
+        "GUID:089a2783d71e14f42ba7114aba5e08a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
